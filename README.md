@@ -4,7 +4,7 @@ The Indiana Geographic Information Office (IGIO) is the clearinghouse for GIS in
 
 ## Learn More
 To find out more about the IGIO's mission and programs, check out the following links:
-- [https://gis.in.gov](IGIO Public Page)
+- [IGIO Public Page](https://gis.in.gov)
 - [https://imagery.gio.in.gov](Imagery)
 - [https://elevation.gio.in.gov](Elevation)
 - [https://gis.gio.in.gov](IGIO Operations)
